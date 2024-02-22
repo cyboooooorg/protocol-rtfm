@@ -6,7 +6,7 @@
 
 # Protocol _RTFM_
 
-> [NOTE]
+> [!NOTE]
 > If you've received this link, it means you need to read it. It's not a joke, meme, or prank—it's a serious protocol that requires your attention and understanding.
 
 ## TL;DR
